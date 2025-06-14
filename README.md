@@ -6,18 +6,14 @@ I’m a passionate developer, UI/UX enthusiast, and pixel-perfectionist who turn
 ---
 
 ## 🌱 Currently Exploring
-- 🌐 Full-Stack Web Dev (React + Laravel + Node.js)
 - 📱 Mobile App Dev (React Native 💙)
 - 🎨 UI/UX Prototyping using Figma and Canva
-- 🤖 Dipping my toes into AI tools & automation
 
 ---
 
 ## ✨ Fun Little Facts
 - 😄 Pronouns: she/her
 - 📍 Based in the Philippines 🇵🇭
-- 🎮 I love cozy games (Stardew, Animal Crossing vibes 🍓)
-- 💌 I collect cute notebooks… but never write in them 🙈
 
 ---
 
